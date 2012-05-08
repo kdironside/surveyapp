@@ -1,0 +1,7 @@
+This sample demonstrates how to use the Surveyor gem in a Rails app. Surveyor requires a number of dependent gems including Formtastic. 
+
+This is a Rails 3.1.4 application that uses Ruby 1.9.2p320 and was developed on Mac OS X Lion. 
+
+This application is useful for startup research, marketing research, and the like. If deploying a similar application to Heroku, read this if you're experiencing response time issues:
+
+https://github.com/NUBIC/surveyor/issues/307
